@@ -8,7 +8,7 @@
 </br>
 
 
-This Python script uses the Plotly Express library to create an animated choropleth map that displays the per capita Gross Domestic Product (GDP) of different countries over the years.
+This Python script uses the Plotly Express library to create an animated choropleth map that displays the per capita Gross Domestic Product (GDP) of different countries over the years. Data is read from an online CSV file and the map is customized with a title and light gray background before being displayed on the screen.
 </br>
 
 ## 1 - Importing Libraries:
